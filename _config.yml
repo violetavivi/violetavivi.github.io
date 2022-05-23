@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Violeta Calleja Solanas"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD candidate"
   location         : "IFISC, Spain"
   employer         :
