@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Violeta Calleja Solanas"
   avatar           : "profile.png"
-  bio              : "PhD candidate"
-  location         : "Mallorca, Spain"
-  employer         : "IFISC"
+  bio              : "PhD student"
+  location         : "IFISC, Spain"
+  employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.es/citations?user=gqRwKssAAAAJ&hl"
   email            :
