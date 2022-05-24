@@ -2,7 +2,7 @@
 title: "Neutral theory for competing attention in social networks"
 collection: publications
 permalink: /publication/Neutral-theory
-excerpt: 'Analysing online communications as ecological systems.'
+excerpt: 'Inspired by Neutral Theory of Ecology, we here develop an analytical null model for competing attention and memes diversity in social networks starting and we analytically compute several new quantities of interest to characterize communication dynamics.'
 date: 2021-01-22
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
