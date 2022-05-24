@@ -1,6 +1,5 @@
 ---
-title: "An ecological approach to structural flexibility in
-online communication systems"
+title: "An ecological approach to structural flexibility in online communication systems"
 collection: publications
 permalink: /publication/An-ecological-approach-to-structural-flexibility
 excerpt: 'Analysing online communications as ecological systems.'
