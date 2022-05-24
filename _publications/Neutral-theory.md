@@ -10,11 +10,12 @@ gallery1:
   - url: Neutral-theory/illustration.png
     image_path: Neutral-theory/illustration.png
     alt: "placeholder image 1"
-    title: "Schematic representation of the visibility optimisation model."
+    title: "Cool illustration made by me :D"
   - url: Neutral-theory/fig4.png
     image_path: Neutral-theory/fig4.png
     alt: "placeholder image 2"
-    title: "Structural evolution in the visibility optimisation model"
+    title: "Comparison between theoretical predictions and Twitter
+data."
 ---
 
 [Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070)
