@@ -8,12 +8,12 @@ date: 2021-05-29
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
 gallery1:
-  - url: /images/An-ecological-approach-to-structural-flexibility/fig2.png
-    image_path: /images/An-ecological-approach-to-structural-flexibility/fig2.png
+  - url: An-ecological-approach-to-structural-flexibility/fig2.png
+    image_path: An-ecological-approach-to-structural-flexibility/fig2.png
     alt: "placeholder image 1"
     title: "Schematic representation of the visibility optimisation model."
-  - url: /images/An-ecological-approach-to-structural-flexibility/fig3.png
-    image_path: /images/An-ecological-approach-to-structural-flexibility/fig3.png
+  - url: An-ecological-approach-to-structural-flexibility/fig3.png
+    image_path: An-ecological-approach-to-structural-flexibility/fig3.png
     alt: "placeholder image 2"
     title: "Structural evolution in the visibility optimisation model"
 ---
