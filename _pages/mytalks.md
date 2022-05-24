@@ -1,13 +1,16 @@
 ---
 permalink: /mytalks/
 author_profile: true
+gallery1:
+  - url: talks.jpeg
+    image_path: talks.jpeg
+    alt: "placeholder image 1"
 ---
 Here are the slides of some of the places I've talked in. Don't be afraid of asking me for the ones not listed! 
 You can reuse them (with attribution) and ask me for other formart too.
 
 If you think I could give a talk, feel free to invite me :blush: 
 {: .notice}
-
 
 ## Talks, seminars, etc.
 
@@ -33,3 +36,5 @@ If you think I could give a talk, feel free to invite me :blush:
 :   Out-research video for IFISC  [Video](https://youtu.be/K88hTnzo-tI){: .btn--research}
 
 
+
+{% include gallery id="gallery1" caption=" " %}
