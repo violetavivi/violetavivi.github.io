@@ -25,6 +25,9 @@ gallery3:
     image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/pokemon.jpeg
     alt: "placeholder image 3"
     title: " "
+ 
+tags:
+  - Structured
 ---
 
 [PDF](https://arxiv.org/pdf/2012.14916.pdf){: .btn--research}
