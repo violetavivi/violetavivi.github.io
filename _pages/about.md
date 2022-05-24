@@ -24,3 +24,9 @@ Download my CV [here](http://violetavivi.github.io/files/myCV230522.pdf)
 :hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
       
 :egg: Bachelor in Physics, _University of Zaragoza_
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
