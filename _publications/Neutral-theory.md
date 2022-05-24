@@ -18,7 +18,7 @@ gallery1:
 data."
 ---
 
-[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070)
+[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
 
 # Abstract
 Online social networks have significantly changed global communication dynamics. Despite the complexity of
