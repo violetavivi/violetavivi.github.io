@@ -1,6 +1,6 @@
 ---
 title: "TEAMS"
-layout: single
+layout: splash
 excerpt: "Towards an Ecological Approach of Information Ecosystems.<br/><img src='/images/TEAMS.png'>"
 collection: portfolio
 header:
