@@ -17,6 +17,7 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 ### Interests
 - Ecological interactions
 - Complex networks
+
 ### Education
 :hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
       
