@@ -17,7 +17,6 @@ Download my CV [here](http://violetavivi.github.io/files/myCV230522.pdf)
 ### Interests
 - Ecological interactions
 - Complex networks
-
 ### Education
 :hatched_chick: PhD in Complex Systems, _IFISC_
       
@@ -25,8 +24,11 @@ Download my CV [here](http://violetavivi.github.io/files/myCV230522.pdf)
       
 :egg: Bachelor in Physics, _University of Zaragoza_
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+{% twitter https://twitter.com/VioletaCalleja maxwidth=500 limit=5 %}
