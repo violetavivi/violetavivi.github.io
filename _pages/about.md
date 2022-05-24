@@ -28,6 +28,6 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
