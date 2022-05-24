@@ -25,3 +25,11 @@ Fondazione Cariparo (Cassa di Risparmio di Padova e Rovigo) (Italy)
 J. Borge-Holthoefer, S. Suweis
 
 *from [CoSIN3](http://cosin3.rdi.uoc.edu/all_projects/teams/) webpage*
+
+### Related Publications
+======
+  <ul>{% for post in site.publications %}
+  {% if post.tags[1] == "TEAMS" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+  {% endfor %}</ul>
