@@ -1,9 +1,9 @@
 ---
 title: "TEAMS"
-excerpt: "Towards an Ecological Approach of Information Ecosystems1<br/><img src='/images/TEAMS.png'>"
+excerpt: "Towards an Ecological Approach of Information Ecosystems.<br/><img src='/images/TEAMS.png'>"
 collection: portfolio
 header:
-  teaser: TEAMS.png
+  teaser: /images/TEAMS.png
 taxonomy: TEAMS # tag name
 entries_layout: list # list (default), grid
 ---
