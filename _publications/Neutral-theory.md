@@ -40,6 +40,6 @@ model to be tested against real data.
 
 
 Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
-Phys. Rev. Research 3, 013070 – Published 22 January 2021 DOI:https://doi.org/10.1103/PhysRevResearch.3.013070
+Phys. Rev. Research 3, 013070 – Published 22 January 2021 [DOI:https://doi.org/10.1103/PhysRevResearch.3.013070](DOI:https://doi.org/10.1103/PhysRevResearch.3.013070)
 
 I presented a [poster]([#Buttons](https://violetavivi.github.io/files/posterCCSLyon.pdf)){: .btn--research} at CCS21@Lyon.
