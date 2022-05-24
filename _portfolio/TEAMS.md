@@ -5,20 +5,21 @@ excerpt: "Towards an Ecological Approach of Information Ecosystems.<br/><img src
 collection: portfolio
 header:
   image: /images/TEAMS.png
-  teaser: /images/TEAMS.png
 feature_row:
-  - image_path: Quantifying-the-drivers-behind-collective-attention/fig3.png
+  - image_path: protfolio-fig3.png
     alt: "placeholder image 1"
     title: ""
     excerpt: "Quantifying the drivers behind collective attention in information ecosystems"
-  - image_path: An-ecological-approach-to-structural-flexibility/fig3.png
+    url: "https://violetavivi.github.io/publication/Quantifying-the-drivers-behind-collective-attention"
+  - image_path: project-flex.png
     alt: "placeholder image 2"
     title: ""
     excerpt: "An ecological approach to structural flexibility in online communication systems"
-    url: "https://violetavivi.github.io/publication/Neutral-theory"
+    url: "https://violetavivi.github.io/publication/An-ecological-approach-to-structural-flexibility"
   - image_path: Neutral-theory/illustration.png
     title: ""
     excerpt: "Neutral theory for competing attention in social networks"
+    url: "https://violetavivi.github.io/publication/Neutral-theory"
 ---
 Towards an Ecological Approach of Information Ecosystems.
 
