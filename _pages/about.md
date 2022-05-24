@@ -12,13 +12,13 @@ redirect_from:
 
 My research has focused, so far, on ecology and social systems within an ecological framework. The main objective of my thesis is to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
 
-Download my CV [here](http://violetavivi.github.io/files/myCV230522.pdf)
+You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV230522.pdf)
 
 ### Interests
 - Ecological interactions
 - Complex networks
 ### Education
-:hatched_chick: PhD in Complex Systems, _IFISC_
+:hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
       
 :hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
       
@@ -31,4 +31,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-{% twitter https://twitter.com/VioletaCalleja maxwidth=500 limit=5 %}
