@@ -26,4 +26,4 @@ Understanding human interactions in online communications is of paramount import
 {% include gallery id="gallery1" caption=" " %}
 
 
-Violeta Calleja-Solanas et al 2021 J. Phys. Complex. 2 045014
+Calleja-Solanas, Violeta, et al. "Quantifying the drivers behind collective attention in information ecosystems." Journal of Physics: Complexity 2.4 (2021): 045014. [DOI: https://doi.org/10.1088/2632-072X/ac35b6](https://doi.org/10.1088/2632-072X/ac35b6)
