@@ -4,9 +4,25 @@ excerpt: "Towards an Ecological Approach of Information Ecosystems.<br/><img src
 collection: portfolio
 header:
   image: /images/TEAMS.png
-taxonomy: TEAMS # tag name
-entries_layout: list # list (default), grid
+  teaser: /images/TEAMS.png
+feature_row:
+  - image_path: Quantifying-the-drivers-behind-collective-attention/fig3.png
+    alt: "placeholder image 1"
+    title: ""
+    excerpt: "Quantifying the drivers behind collective attention in information ecosystems"
+  - image_path: An-ecological-approach-to-structural-flexibility/fig3.png
+    alt: "placeholder image 2"
+    title: ""
+    excerpt: "An ecological approach to structural flexibility in online communication systems"
+    url: "https://violetavivi.github.io/publication/Neutral-theory"
+  - image_path: Neutral-theory/illustration.png
+    title: ""
+    excerpt: "Neutral theory for competing attention in social networks"
 ---
+Towards an Ecological Approach of Information Ecosystems.
+
+### Related Publications
+{% include feature_row %}
 
 Online social networks (OSN) constitute nowadays mainstream communication channels to interact, exchange opinions, and reach consensus. In recent years, it has increasingly become evident that competition significantly shapes the topology and the dynamics on these information-driven platforms: users thrive for visibility, while memes resemble entities that compete for users’ attention. This analogy has fostered many researchers’ struggle to model user behavior on one hand, and so-called semiotic dynamics on the other. However, these represent a partial picture, accounting only for user-user, or meme-meme, interactions. Turning to user-meme (bipartite) networks, non-competitive relationships become apparent as well, under the form of mutualism: the choice of more frequent memes increases the visibility of individuals, which in turn makes the popularity of those memes even larger.
 
@@ -21,6 +37,7 @@ Thus, the project seeks the following objectives:
 2. Structural patterns in time-evolving information ecosystems.
 3. Population dynamics in information ecosystems.
 
+
 ### Funding Agency
 Fondazione Cariparo (Cassa di Risparmio di Padova e Rovigo) (Italy)
 ### Principal Investigator
@@ -28,10 +45,4 @@ J. Borge-Holthoefer, S. Suweis
 
 *from [CoSIN3](http://cosin3.rdi.uoc.edu/all_projects/teams/) webpage*
 
-### Related Publications
-======
-  <ul>{% for post in site.publications %}
-  {% if post.tags == "TEAMS" %}
-    {% include archive-single-cv.html %}
-  {% endif %}
-  {% endfor %}</ul>
+
