@@ -16,6 +16,8 @@ gallery1:
     alt: "placeholder image 2"
     title: "Comparison between theoretical predictions and Twitter
 data."
+tags:
+  - TEAMS
 ---
 
 [PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
