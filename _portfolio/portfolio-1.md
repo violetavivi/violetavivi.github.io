@@ -4,6 +4,8 @@ excerpt: "Towards an Ecological Approach of Information Ecosystems1<br/><img src
 collection: portfolio
 header:
   teaser: TEAMS.png
+taxonomy: TEAMS # tag name
+entries_layout: list # list (default), grid
 ---
 
 Online social networks (OSN) constitute nowadays mainstream communication channels to interact, exchange opinions, and reach consensus. In recent years, it has increasingly become evident that competition significantly shapes the topology and the dynamics on these information-driven platforms: users thrive for visibility, while memes resemble entities that compete for users’ attention. This analogy has fostered many researchers’ struggle to model user behavior on one hand, and so-called semiotic dynamics on the other. However, these represent a partial picture, accounting only for user-user, or meme-meme, interactions. Turning to user-meme (bipartite) networks, non-competitive relationships become apparent as well, under the form of mutualism: the choice of more frequent memes increases the visibility of individuals, which in turn makes the popularity of those memes even larger.
@@ -29,7 +31,7 @@ J. Borge-Holthoefer, S. Suweis
 ### Related Publications
 ======
   <ul>{% for post in site.publications %}
-  {% if post.tags[1] == "TEAMS" %}
+  {% if post.tags == "TEAMS" %}
     {% include archive-single-cv.html %}
   {% endif %}
   {% endfor %}</ul>
