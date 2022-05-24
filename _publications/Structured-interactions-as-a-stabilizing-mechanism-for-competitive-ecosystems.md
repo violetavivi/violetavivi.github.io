@@ -20,6 +20,11 @@ gallery2:
     image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/video.png
     alt: "placeholder image 3"
     title: " "
+gallery3:
+  - url: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/pokemon.jpeg
+    image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/pokemon.jpeg
+    alt: "placeholder image 3"
+    title: " "
 ---
 
 [PDF](https://arxiv.org/pdf/2012.14916.pdf){: .btn--research}
@@ -45,4 +50,7 @@ On the contrary, when one of these ingredients is missing large oscillations and
 
 Calleja-Solanas, Violeta, et al. "Structured interactions as a stabilizing mechanism for competitive ecosystems." arXiv preprint arXiv:2012.14916 (2020).
 
-{% include gallery id="gallery2"  caption="A WIP talk about the paper." %}
+{% include gallery id="gallery2"  caption="A talk about the WIP paper." %}
+
+And finally, my research institute (IFISC) celebrates every year a poster party. I adapted this work to study... POKEMON!
+{% include gallery id="gallery3"  caption="Click to enlarge." %}
