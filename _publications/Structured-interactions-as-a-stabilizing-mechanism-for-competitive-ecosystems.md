@@ -15,6 +15,11 @@ gallery1:
     image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig3.png
     alt: "placeholder image 2"
     title: "Average area in the simplex covered by the system as function of average degree, for different networks."
+gallery2:
+  - url: https://youtu.be/rvROrCRFO-c
+    image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/video.png
+    alt: "placeholder image 3"
+    title: " "
 ---
 
 [PDF](https://arxiv.org/pdf/2012.14916.pdf){: .btn--research}
@@ -40,4 +45,4 @@ On the contrary, when one of these ingredients is missing large oscillations and
 
 Calleja-Solanas, Violeta, et al. "Structured interactions as a stabilizing mechanism for competitive ecosystems." arXiv preprint arXiv:2012.14916 (2020).
 
-{% include video id="rvROrCRFO-c" provider="youtube" %}
+{% include gallery id="gallery2"  caption="A WIP talk about the paper." %}
