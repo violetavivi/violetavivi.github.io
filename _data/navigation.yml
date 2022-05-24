@@ -3,15 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Talks & Posters"
-    url: /talks/    
+  #- title: "Talks & Posters"
+  # url: /talks/    
 
   - title: "Projects"
     url: /portfolio/  
         
-  - title: "Blog"
-    url: /year-archive/    
+  #- title: "Blog"
+  #  url: /year-archive/    
     
-  - title: "Resources"
-    url: /cv/
+  #- title: "Resources"
+  #  url: /cv/
 
