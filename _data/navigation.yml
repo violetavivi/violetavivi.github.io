@@ -3,18 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Talks"
+  - title: "Slides & Posters"
     url: /talks/    
 
   - title: "Projects"
-    url: /porfolio/
-
-  - title: "Slides & Posters"
-    url: /teaching/    
+    url: /porfolio/  
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Blog"
+    url: /year-archive/    
     
   - title: "Resources"
     url: /cv/
