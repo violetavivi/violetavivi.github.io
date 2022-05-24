@@ -26,6 +26,6 @@ Human cognitive abilities are limited resources. Today, in the age of cheap info
 {% include gallery id="gallery1" caption=" " %}
 
 
-Palazzi, MJ, Solé Ribalta, A., Calleja Solanas, V. (et al.) (2021). An ecological approach to structural flexibility in online communication systems. Nat Commun 12, 1941.
+Palazzi, MJ, Solé Ribalta, A., Calleja Solanas, V. (et al.) (2021). An ecological approach to structural flexibility in online communication systems. Nat Commun 12, 1941. [DOI: https://doi.org/10.1038/s41467-021-22184-2](https://doi.org/10.1038/s41467-021-22184-2)
 
 Read a press note [here](https://ifisc.uib-csic.es/es/news/analyzing-online-communication-ecological-systems/).
