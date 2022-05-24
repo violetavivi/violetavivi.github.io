@@ -26,7 +26,7 @@ gallery1:
 # Abstract
 Human cognitive abilities are limited resources. Today, in the age of cheap information—cheap to produce, to manipulate, to disseminate—this cognitive bottleneck translates into hypercompetition for rewarding outcomes among actors. These incentives push actors to mutualistically interact with specific memes, seeking the virality of their messages. In turn, memes’ chances to persist and spread are subject to changes in the communication environment. In spite of all this complexity, here we show that the underlying architecture of empirical actor-meme information ecosystems evolves into recurring emergent patterns. We then propose an ecology-inspired modelling framework, bringing to light the precise mechanisms causing the observed flexible structural reorganisation. The model predicts—and the data confirm—that users’ struggle for visibility induces a re-equilibration of the network’s mesoscale towards self-similar nested arrangements. Our final microscale insights suggest that flexibility at the structural level is not mirrored at the dynamical one.
 
-{% include gallery id="gallery1" caption=" " %}
+{% include gallery id="gallery1" caption="" %}
 
 
 Palazzi, MJ, Solé Ribalta, A., Calleja Solanas, V. (et al.) (2021). An ecological approach to structural flexibility in online communication systems. Nat Commun 12, 1941. [DOI: https://doi.org/10.1038/s41467-021-22184-2](https://doi.org/10.1038/s41467-021-22184-2)
