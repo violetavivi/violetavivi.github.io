@@ -16,6 +16,7 @@ gallery1:
     image_path: An-ecological-approach-to-structural-flexibility/fig3.png
     alt: "placeholder image 2"
     title: "Structural evolution in the visibility optimisation model"
+ 
  tags:
   - TEAMS
 ---
