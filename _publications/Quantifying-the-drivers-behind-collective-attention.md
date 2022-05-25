@@ -5,6 +5,7 @@ permalink: /publication/Quantifying-the-drivers-behind-collective-attention
 excerpt: 'A framework based on ecological niche theory to quantify the strength of competitive and mutualistic interactions for users and #, and how they change when events captivate collective attention'
 date: 2021-11-26
 venue: 'Journal of Physics: Complexity'
+location: Violeta Calleja-Solanas, Emanuele Pigani, Marı́a J Palazzi, Albert Solé-Ribalta, Samir Suweis, Javier Borge-Holthoefer, Sandro Meloni
 header:
   teaser: Quantifying-the-drivers-behind-collective-attention/fig3.png
 location: Violeta Calleja-Solanas , Emanuele Pigani, María J Palazzi, Albert Solé-Ribalta, Samir Suweis, Javier Borge-Holthoefer and Sandro Meloni
