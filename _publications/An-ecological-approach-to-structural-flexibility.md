@@ -5,7 +5,10 @@ collection: publications
 permalink: /publication/An-ecological-approach-to-structural-flexibility
 excerpt: 'Analysing online communications as ecological systems.'
 date: 2021-05-29
+header:
+  teaser: project-flex.png
 venue: 'Nature Communications'
+location: María J. Palazzi, Albert Solé-Ribalta, Violeta Calleja-Solanas, Sandro Meloni, Carlos A. Plata, Samir Suweis & Javier Borge-Holthoefer
 paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
 gallery1:
   - url: An-ecological-approach-to-structural-flexibility/fig2.png
