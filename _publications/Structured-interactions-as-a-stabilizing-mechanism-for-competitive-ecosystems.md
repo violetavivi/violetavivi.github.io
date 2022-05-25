@@ -5,6 +5,9 @@ permalink: /publication/Structured-interactions-as-a-stabilizing-mechanism-for-c
 excerpt: 'How can the spatial location and interaction range be stabilizing?'
 date: 2020-12-29
 venue: 'arXiv'
+location: Violeta Calleja-Solanas, Nagi Khalil, Emilio Hernández-García, Jesús Gómez-Gardeñes, Sandro Meloni
+header:
+  teaser: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig1.png
 paperurl: 'https://arxiv.org/pdf/2012.14916.pdf'
 gallery1:
   - url: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig1.png
