@@ -6,10 +6,9 @@ excerpt: 'A framework based on ecological niche theory to quantify the strength 
 date: 2021-11-26
 venue: 'Journal of Physics: Complexity'
 location: Violeta Calleja-Solanas, Emanuele Pigani, Marı́a J Palazzi, Albert Solé-Ribalta, Samir Suweis, Javier Borge-Holthoefer, Sandro Meloni
-header:
+header: 
   teaser: Quantifying-the-drivers-behind-collective-attention/fig3.png
-location: Violeta Calleja-Solanas , Emanuele Pigani, María J Palazzi, Albert Solé-Ribalta, Samir Suweis, Javier Borge-Holthoefer and Sandro Meloni
-paperurl: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac35b6/pdf
+paperurl: 'https://iopscience.iop.org/article/10.1088/2632-072X/ac35b6/pdf'
 gallery1:
   - url: Quantifying-the-drivers-behind-collective-attention/fig3.png
     image_path: Quantifying-the-drivers-behind-collective-attention/fig3.png
@@ -19,9 +18,7 @@ matrices. "
   - url: Quantifying-the-drivers-behind-collective-attention/fig8.png
     image_path: Quantifying-the-drivers-behind-collective-attention/fig8.png
     alt: "placeholder image 2"
-    title: "Re-scaled difference between competition and mutualism over the different periods." 
-tags:
-  - TEAMS
+    title: "Re-scaled difference between competition and mutualism over the different periods."
 ---
 
 [PDF](https://iopscience.iop.org/article/10.1088/2632-072X/ac35b6/pdf){: .btn--research}
@@ -32,4 +29,4 @@ Understanding human interactions in online communications is of paramount import
 {% include gallery id="gallery1" caption=" " %}
 
 
-Calleja-Solanas, Violeta, et al. "Quantifying the drivers behind collective attention in information ecosystems." Journal of Physics: Complexity 2.4 (2021): 045014. [DOI: https://doi.org/10.1088/2632-072X/ac35b6](https://doi.org/10.1088/2632-072X/ac35b6)
+Calleja-Solanas, V., Pigani, E., Palazzi, M. J., Solé-Ribalta, A., Suweis, S., Borge-Holthoefer, J., & Meloni, S. (2021). Quantifying the drivers behind collective attention in information ecosystems. Journal of Physics: Complexity, 2(4), 045014. [DOI: https://doi.org/10.1088/2632-072X/ac35b6](https://doi.org/10.1088/2632-072X/ac35b6)
