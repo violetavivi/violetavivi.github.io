@@ -14,6 +14,16 @@ My research has focused, so far, on ecological and social systems within an ecol
 
 You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV.pdf).
 
+|   Interests  | Education |
+|:------------:|:-----------:|
+| - Working on: Ecological Interactions, Complex Networks, Computational Social Science
+- Would love to work on: Paleoecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ... | :hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
+      
+:hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
+      
+:egg: Bachelor in Physics, _University of Zaragoza_
+ |
+
 ### Interests
 - Working on: Ecological Interactions, Complex Networks, Computational Social Science
 - Would love to work on: Paleoecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ...
