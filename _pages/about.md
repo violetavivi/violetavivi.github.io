@@ -17,25 +17,25 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> Interests </th>
+<th> Education </th>
 </tr>
 <tr>
 <td>
 
-```- Working on: Ecological Interactions, Complex Networks, Computational Social Science
+- Working on: Ecological Interactions, Complex Networks, Computational Social Science
 - Would love to work on: Paleoecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ...
-```
+
 
 </td>
 <td>
 
-```:hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
+:hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
       
 :hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
       
 :egg: Bachelor in Physics, _University of Zaragoza_
-```
+
 
 </td>
 </tr>
