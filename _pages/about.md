@@ -29,6 +29,6 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-publications-about.html %}
   {% endfor %}</ul>
   
