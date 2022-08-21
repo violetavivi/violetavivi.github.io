@@ -17,13 +17,14 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 
 <table>
 <tr>
-<th> Interests </th>
-<th> Education </th>
+<th> ##Interests </th>
+<th> ##Education </th>
 </tr>
 <tr>
 <td>
 
 - Working on: Ecological Interactions, Complex Networks, Computational Social Science
+  
 - Would love to work on: Paleoecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ...
 
 
