@@ -8,6 +8,7 @@ date: 2021-05-29
 header:
   teaser: project-flex.png
 venue: 'Nature Communications'
+citation: 'Palazzi, MJ, Solé Ribalta, A., Calleja Solanas, V. (et al.) (2021). An ecological approach to structural flexibility in online communication systems. <i>Nat Commun 12, 1941.</i> DOI: https://doi.org/10.1038/s41467-021-22184-2'
 location: María J. Palazzi, Albert Solé-Ribalta, Violeta Calleja-Solanas, Sandro Meloni, Carlos A. Plata, Samir Suweis & Javier Borge-Holthoefer
 paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
 gallery1:
