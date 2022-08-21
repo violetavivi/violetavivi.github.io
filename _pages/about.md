@@ -10,13 +10,13 @@ redirect_from:
 
 :wave: I am a PhD student at [IFISC](https://ifisc.uib-csic.es/en/) (Institute for Cross-Disciplinary Physics and Complex Systems).
 
-My research has focused, so far, on ecology and social systems within an ecological framework. The main objective of my thesis is to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
+My research has focused, so far, on ecological and social systems within an ecological framework. The main objective of my thesis is to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
 
 You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV.pdf).
 
 ### Interests
-- Worked in: Ecological Interactions, Theoretical Ecology, Computational Social Science, HOI
-- Would love to work in: Paleoecology, Evolutionary Dynamics, Dataviz, Game Theory, ...
+- Working on: Ecological Interactions, Complex Networks, Computational Social Science
+- Would love to work on: Paleoecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ...
 
 ### Education
 :hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
