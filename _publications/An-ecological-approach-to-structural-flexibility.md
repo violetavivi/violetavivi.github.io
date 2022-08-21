@@ -5,6 +5,7 @@ collection: publications
 permalink: /publication/An-ecological-approach-to-structural-flexibility
 excerpt: 'Analysing online communications as ecological systems.'
 date: 2021-05-29
+link: 'https://www.nature.com/articles/s41467-021-22184-2'
 header:
   teaser: project-flex.png
 venue: 'Nature Communications'
