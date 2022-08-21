@@ -6,13 +6,13 @@ gallery1:
     image_path: talks.jpeg
     alt: "placeholder image 1"
 ---
-Here are the slides of some of the places I've talked in.
-You can reuse them (with attribution) and ask me for other formarts too.
+Here you have some slides, posters and videos.
+You can reuse them (with attribution) and ask me for other formarts.
 
 If you think I could give a talk, feel free to invite me :blush: 
 {: .notice}
 
-## Talks, seminars, etc.
+## Talks, poster, etc
 
 2022 May  ::  Dealing with the 3 Ps: Procrastination, Productivity and PhD
 :   Talk, NetPLACE [Slides](https://violetavivi.github.io/files/NetPLACEprocrastination.pdf){: .btn--research} [Blog](https://sites.google.com/view/netplace/schedule/blog/blogpost-003?authuser=0){: .btn--research} [Video](https://youtu.be/E1r2EOGwuSU?t=50){: .btn--research}
@@ -32,7 +32,7 @@ If you think I could give a talk, feel free to invite me :blush:
 2020 September  ::  Structured interactions in competitive ecological systems
 :   Talk, NetSci 2020 (online)  [Slides](https://violetavivi.github.io/files/CCSLyon2021-LocalChapter.pdf){: .btn--research}
 
-2019 OCtober  ::  ¿Qué son los algoritmos genéticos?
+2019 October  ::  ¿Qué son los algoritmos genéticos?
 :   Out-research video for IFISC  [Video](https://youtu.be/K88hTnzo-tI){: .btn--research}
 
 
