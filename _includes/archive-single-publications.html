@@ -37,8 +37,8 @@
 
      {% if post.collection == 'publications' %}
       <p style="color:gray;font-size:80%"> 
-         {% if post.citation %}
-           {{ post.citation }}
+         {% if post.smallinfo %}
+           {{ post.smallinfo }}
          {% endif %}
       </p>
      {% endif %}
