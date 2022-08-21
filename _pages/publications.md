@@ -11,5 +11,5 @@ You can also find a more updated list of articles on my [Google Scholar profile]
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-publications.html %}
 {% endfor %}
