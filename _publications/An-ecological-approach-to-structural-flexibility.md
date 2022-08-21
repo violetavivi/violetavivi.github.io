@@ -9,7 +9,7 @@ link: 'https://www.nature.com/articles/s41467-021-22184-2'
 header:
   teaser: project-flex.png
 venue: 'Nature Communications'
-smallinfo: 'Palazzi, MJ, Solé Ribalta, A., <b>Calleja Solanas, V.</b>, Meloni, S., Plata, C.A., Suweis, S. & Borge-Holthoefer J.,   <b><i>Nature Communications.</i></b> (2021)'
+smallinfo: 'Palazzi, MJ, Solé Ribalta, A., <b>Calleja Solanas, V.</b>, Meloni, S., Plata, C.A., Suweis, S. & Borge-Holthoefer J.,   <b><i>Nature Communications</i></b> (2021)'
 location: María J. Palazzi, Albert Solé-Ribalta, Violeta Calleja-Solanas, Sandro Meloni, Carlos A. Plata, Samir Suweis & Javier Borge-Holthoefer
 paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
 gallery1:
