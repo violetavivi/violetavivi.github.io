@@ -76,7 +76,7 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-SYLL8R2BEN
 
 
 # Site Author
