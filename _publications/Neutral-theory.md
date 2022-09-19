@@ -26,6 +26,11 @@ tags:
 
 [PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
 
+Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
+Phys. Rev. Research 3, 013070 – Published 22 January 2021 [DOI:https://doi.org/10.1103/PhysRevResearch.3.013070](DOI:https://doi.org/10.1103/PhysRevResearch.3.013070)
+
+[poster]([#Buttons](https://violetavivi.github.io/files/posterCCSLyon.pdf)){: .btn--research} at CCS21@Lyon.
+
 # Abstract
 Online social networks have significantly changed global communication dynamics. Despite the complexity of
 such dynamics, emergent patterns from empirical microblogging data on hashtag usage, such as meme popularity
@@ -43,9 +48,3 @@ roles played by competition and network structure on meme diversity and persiste
 model to be tested against real data.
 
 {% include gallery id="gallery1" caption=" " %}
-
-
-Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
-Phys. Rev. Research 3, 013070 – Published 22 January 2021 [DOI:https://doi.org/10.1103/PhysRevResearch.3.013070](DOI:https://doi.org/10.1103/PhysRevResearch.3.013070)
-
-I presented a [poster]([#Buttons](https://violetavivi.github.io/files/posterCCSLyon.pdf)){: .btn--research} at CCS21@Lyon.
