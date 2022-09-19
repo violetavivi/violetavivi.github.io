@@ -32,4 +32,4 @@ Human cognitive abilities are limited resources. Today, in the age of cheap info
 
 {% include gallery id="gallery1" caption=" " %}
 
-Read a press note [here](https://ifisc.uib-csic.es/es/news/analyzing-online-communication-ecological-systems/).
+Appeared in press notes from [Science Magazine](https://scienmag.com/ecology-inspired-mathematical-models-to-understand-social-networks/), [TechExplore](https://techxplore.com/news/2021-04-clues-networks-twitter-viral-news.html) and [IFISC](https://ifisc.uib-csic.es/es/news/analyzing-online-communication-ecological-systems/).
