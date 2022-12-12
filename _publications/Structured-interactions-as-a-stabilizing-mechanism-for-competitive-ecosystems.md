@@ -1,5 +1,5 @@
 ---
-title: "*Structured interactions as a stabilizing mechanism for competitive ecosystems"
+title: "Structured interactions as a stabilizing mechanism for competitive ecosystems"
 collection: publications
 permalink: /publication/Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems
 excerpt: 'How can the spatial location and interaction range be stabilizing?'
@@ -34,7 +34,7 @@ tags:
   - Structured
 ---
 
-[PDF](https://violetavivi.github.io/files/PhysRevE.106.064307.pdf){: .btn--research}
+[PDF](https://violetavivi.github.io/files/PhysRevE.106.064307.pdf){: .btn--research}  [Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.064307)
 
 # Abstract
 How large ecosystems can create and maintain the remarkable
@@ -54,8 +54,8 @@ On the contrary, when one of these ingredients is missing large oscillations and
 
 {% include gallery id="gallery1" caption=" " %}
 
-
-Calleja-Solanas, Violeta, et al. "Structured interactions as a stabilizing mechanism for competitive ecosystems." arXiv preprint arXiv:2012.14916 (2020).
+Violeta Calleja-Solanas, Nagi Khalil, Jesús Gómez-Gardeñes, Emilio Hernández-García, and Sandro Meloni
+Phys. Rev. E 106, 064307
 
 {% include gallery id="gallery2"  caption="A talk about the WIP paper." %}
 
