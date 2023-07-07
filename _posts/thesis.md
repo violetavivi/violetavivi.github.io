@@ -22,6 +22,6 @@ The layout is based on the Harvard-thesis layout:
 
 You can download the template in the above link or download my own version:
 
-[https://github.com/suchow/Dissertate](https://github.com/suchow/Dissertate)
+[https://github.com/violetavivi/Thesis/tree/main](https://github.com/violetavivi/Thesis/tree/main)
 
 The file to be compiled for my dissertation is `thesis.tex`.
