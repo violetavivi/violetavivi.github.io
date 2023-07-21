@@ -14,8 +14,11 @@ This page collects references, links, data repositories, and books that I have f
 
 # Mental health
 
-# Organizations
-
+# Organizations for early-career researchers
+- The young researchers of the Complex Systems Society ([yrCSS](http://yrcss.cssociety.org/yrcss-about/)) is an elected group of early-career researchers that promote and organize initiatives like annual Bridge Grants, Scholarships for Events on Complex Systems, and the Warm-Up School on Complex Systems with the support of the Complex Systems Society.
+- [NetPLACE](https://sites.google.com/view/netplace/home-page) (Networks, Phd Life And ComplExity Seminars, or simply NetPLACE Seminars) are a group of early-career researchers that provide a friendly and cosy place for graduate and postgraduate students from all over the world to interact, to present new/interesting developments from their areas of interest in the complex systems and networks field, as well as their difficulties during the PhD study. Check their [Youtube channel](https://www.youtube.com/@netplace3823) for past talks!
+- The "Young Modellers in Ecology" ([YoMos](https://www.yomos.org/)) are a group of young scientists working in all fields of ecological modelling. They organize annual workshops and conference meetings.
+  
 # Datasets on ecology
 
 
