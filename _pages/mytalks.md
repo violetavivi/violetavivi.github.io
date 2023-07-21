@@ -12,7 +12,10 @@ You can reuse them (with attribution) and ask me for other formarts.
 If you think I could give a talk, feel free to invite me :blush: 
 {: .notice}
 
-## Talks, poster, etc
+## Talks, posters, etc
+
+2023 July  ::  Thesis viva
+:   Exploring ecological and social interactions through the lens of complex systems [Slides](https://violetavivi.github.io/files/thesis_viva_compressed.pdf){: .btn--research} 
 
 2022 May  ::  Dealing with the 3 Ps: Procrastination, Productivity and PhD
 :   Talk, NetPLACE [Slides](https://violetavivi.github.io/files/NetPLACEprocrastination.pdf){: .btn--research} [Blog](https://sites.google.com/view/netplace/schedule/blog/blogpost-003?authuser=0){: .btn--research} [Video](https://youtu.be/E1r2EOGwuSU?t=50){: .btn--research}
