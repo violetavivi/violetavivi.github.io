@@ -22,8 +22,15 @@ This page collects references, links, data repositories, and books that I have f
 - The young researchers of the Complex Systems Society ([yrCSS](http://yrcss.cssociety.org/yrcss-about/)) is an elected group of early-career researchers that promote and organize initiatives like annual Bridge Grants, Scholarships for Events on Complex Systems, and the Warm-Up School on Complex Systems with the support of the Complex Systems Society.
 - [NetPLACE](https://sites.google.com/view/netplace/home-page) (Networks, Phd Life And ComplExity Seminars, or simply NetPLACE Seminars) are a group of early-career researchers that provide a friendly and cosy place for graduate and postgraduate students from all over the world to interact, to present new/interesting developments from their areas of interest in the complex systems and networks field, as well as their difficulties during the PhD study. Check their [Youtube channel](https://www.youtube.com/@netplace3823) for past talks!
 - The "Young Modellers in Ecology" ([YoMos](https://www.yomos.org/)) are a group of young scientists working in all fields of ecological modelling. They organize annual workshops and conference meetings.
-- The Society of Women in Network Science ([WiNS](https://sites.google.com/view/womeninnetworkscience/)) connects women, trans and non-binary gender network scientists from different races, socioeconomic backgrounds, and nations. The society aims to recognize the work, perspectives and expertise of its members to create bridges between academia, government, and private industry related to network science.
-## Datasets on ecology
+- The Society of Women in Network Science ([WiNS](https://sites.google.com/view/womeninnetworkscience/)) connects women, trans and non-binary gender network scientists from different races, socioeconomic backgrounds, and nations. The society aims to recognize the work, perspectives, and expertise of its members to create bridges between academia, government, and private industry related to network science.
+  
+## Datasets for ecology and computational social sciences
+- [Web of life](https://www.web-of-life.es/): a collection of food-webs, mutualistic and host-parasite networks maintained by the [Bascompte Lab](https://www.bascompte.net/).
+- [Living Planet Index](https://www.livingplanetindex.org/search): stores population trends.
+- [BioTIME](https://biotime.st-andrews.ac.uk/): global database of assemblage time series for quantifying and understanding biodiversity change.
+- Twitter datasets publicly available: 30 different datasets associated with real-world [events](https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460) and two datasets of [Spanish elections](https://osf.io/j5qwx/).
+- [Allen Coral Atlas](https://allencoralatlas.org/): monitors the world's coral reefs.
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
