@@ -9,9 +9,9 @@ main:
   - title: "Projects"
     url: /portfolio/  
         
-  - title: "Resources"
+  - title: "Blog"
     url: /year-archive/    
     
-  #- title: "Miscelanea"
-  #  url: /cv/
+  - title: "Resources"
+    url: /resources/
 
