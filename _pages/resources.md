@@ -12,11 +12,18 @@ This page collects references, links, data repositories, and books that I have f
   
 ## Writing
 - The book [How to Write a Scientific Paper: An Academic Self-help Guide for PhD Students](https://www.amazon.com/How-Write-Scientific-Paper-Self-Help/dp/173078416X) by the researcher [Jari Saramäki](https://jarisaramaki.fi/) is a gem. He was kindly enough to gave us a [talk](https://www.youtube.com/watch?v=czpwDkCTDjQ&list=PL2NiuOynAtBscCNd59bH4jS8SxAY_Uk5P&ab_channel=YoungResearchersoftheComplexSystemsSociety) about it and share its [slides](https://users.aalto.fi/~jsaramak/HowToWriteSciPaper_Palma.pdf) during the [yrCSS] Warm-Up 2022.
+- On his [website](https://www.math.ucla.edu/~mason/), Manson A. Porter has a collection of writing resources, including examples of cover letters.
+- The book [The elements of style](https://en.wikipedia.org/wiki/The_Elements_of_Style) is not focused on academic writing, but it may be useful for non-native English speakers like me.
+- Despite that title, [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241) has a lot of solid advice and knowledge about academic writing with very pertinent examples.
 - [Daphne Gray-Grant](https://www.publicationcoach.com/blog/) is a publication coach that runs a writing blog with interesting tips about academic writing, from dealing with [writer's block]( https://www.publicationcoach.com/how-to-get-unstuck-when-writing/) to [mindmapping](https://www.publicationcoach.com/all-about-mindmapping/). Her newsletter helped me while writing my dissertation.
 - I wrote about my PhD thesis [template](https://violetavivi.github.io/posts/2023/07/thesis/) and some personalization/formating tips.
 
 ## Mental health
 - I remember that my supervisor [Sandro Meloni](https://ifisc.uib-csic.es/users/sandro/) sent me this list of [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x) on my first day.
+- [How to draw a cat](https://www.youtube.com/watch?v=44H76Bbvung&ab_channel=struthless). Really, you need to draw a cat.
+- I talked about [Dealing with the 3Ps: Procrastination, Productivity and PhD](https://www.youtube.com/watch?v=E1r2EOGwuSU&t=2s&ab_channel=NetPLACE) at a NetPLACE seminar.
+- [A PhD Is Not Enough: A Guide To Survival In Science](https://www.goodreads.com/book/show/587478.A_PhD_Is_Not_Enough). It is a bit outdated after  20 years but still. Actually, I do not endorse every single line but, it created an interesting internal debate when I read it just before starting to write my dissertation. It's helpful to know what others expect from you.
+- Walk in nature and have a hobby :seedling:. I practice calisthenics and fold origami, what about you?
   
 ## Organizations for early-career researchers
 - The young researchers of the Complex Systems Society ([yrCSS](http://yrcss.cssociety.org/yrcss-about/)) is an elected group of early-career researchers that promote and organize initiatives like annual Bridge Grants, Scholarships for Events on Complex Systems, and the Warm-Up School on Complex Systems with the support of the Complex Systems Society.
