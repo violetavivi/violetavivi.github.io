@@ -16,10 +16,10 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 
 ### Interests
 - Working on: Ecological Interactions, Complex Networks, Computational Social Science
-- Would love to work on: More Ecology, Evolutionary Dynamics, Game Theory, HOI, Dataviz ...
+- Would love to work on: More Ecology, Evolutionary Dynamics, HOI, Dataviz ...
 
 ### Education
-:hatched_chick: PhD in Complex Systems, _IFISC_  (expected)
+:hatched_chick: PhD in Complex Systems, _IFISC_ 
       
 :hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
       
