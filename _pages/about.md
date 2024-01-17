@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-:wave: I am a PhD student at [IFISC](https://ifisc.uib-csic.es/en/) (Institute for Cross-Disciplinary Physics and Complex Systems), Spain.
+:wave: I am a postdoctoral fellow at Doñana Biological Station, Spain, studying the variation of ecological interactions.
 <p style="text-align: justify"> 
-My research has focused, so far, on ecological and social systems within an ecological framework. The main objective of my thesis is to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
+My research has focused, so far, on ecological and social systems within an ecological framework. The main objective of my thesis was to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
  </p> 
 You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV.pdf).
 
@@ -19,7 +19,7 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 - Would love to work on: More Ecology, Evolutionary Dynamics, HOI, Dataviz ...
 
 ### Education
-:hatched_chick: PhD in Complex Systems, _IFISC_ 
+:hatched_chick: PhD in Complex Systems, [_IFISC_](https://ifisc.uib-csic.es/en/) (Institute for Cross-Disciplinary Physics and Complex Systems), Spain
       
 :hatching_chick: Master in Physics and Physical Technologies, _University of Zaragoza_
       
