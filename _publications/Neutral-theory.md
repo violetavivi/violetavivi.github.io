@@ -9,7 +9,7 @@ smallinfo: '(2021) Plata, C.A., Pigani E., Azaele S., <b>Calleja-Solanas V.</b>,
 location: Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
 header:
   teaser: Neutral-theory/illustration.png
-paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
+paperurl: '[https://www.nature.com/articles/s41467-021-22184-2.pdf](https://ifisc.uib-csic.es/media/publications/publication/tu3DzugxQjKJsAA-Q1ChcQ.pdf)'
 gallery1:
   - url: Neutral-theory/illustration.png
     image_path: Neutral-theory/illustration.png
