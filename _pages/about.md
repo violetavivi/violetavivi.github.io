@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: I am a postdoctoral fellow at Doñana Biological Station, Spain, studying the variation of ecological interactions.
+:wave: Postdoctoral fellow at Doñana Biological Station (CSIC), Spain, studying the variation of ecological interactions. Formerly at the Institute for Cross-Disciplinary Physics and Complex Systems, IFISC.
 <p style="text-align: justify"> 
 My research has focused, so far, on ecological and social systems within an ecological framework. The main objective of my thesis was to study how interactions influence the diversity and stability of ecological systems. To do so, I have used a range of different tools from agent-based models to nonlinear ODEs and, primarily, Network Science. 
  </p> 
