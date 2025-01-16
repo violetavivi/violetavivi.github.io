@@ -4,25 +4,7 @@ collection: publications
 layout: single
 permalink: /publication/Neutral-theory/
 excerpt: 'Inspired by Neutral Theory of Ecology, we here develop an analytical null model for competing attention and memes diversity in social networks starting and we analytically compute several new quantities of interest to characterize communication dynamics.'
-date: 2021-01-22
-venue: 'PRR'
-smallinfo: '(2021) Plata, C.A., Pigani E., Azaele S., <b>Calleja-Solanas V.</b>, Palazzi MJ., Solé-Ribalta A., Borge-Holthoefer J., Meloni S. & Suweis S., <b><i> PRR </i></b>'
-location: Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
-header:
-  teaser: Neutral-theory/illustration.png
 paperurl: 'https://ifisc.uib-csic.es/media/publications/publication/tu3DzugxQjKJsAA-Q1ChcQ.pdf'
-gallery1:
-  - url: Neutral-theory/illustration.png
-    image_path: Neutral-theory/illustration.png
-    alt: "placeholder image 1"
-    title: "Cool illustration made by me :D"
-  - url: Neutral-theory/fig4.png
-    image_path: Neutral-theory/fig4.png
-    alt: "placeholder image 2"
-    title: "Comparison between theoretical predictions and Twitter
-data."
-tags:
-  - TEAMS
 ---
 
 [PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
