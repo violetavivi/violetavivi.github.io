@@ -3,7 +3,7 @@ title: "An ecological approach to structural flexibility in
 online communication systems"
 collection: publications
 layout: single
-permalink: /publication/An-ecological-approach-to-structural-flexibility
+permalink: /publication/An-ecological-approach-to-structural-flexibility/
 excerpt: 'Analysing online communications as ecological systems.'
 date: 2021-05-29
 link: 'https://www.nature.com/articles/s41467-021-22184-2'
