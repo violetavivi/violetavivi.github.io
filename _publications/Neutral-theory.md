@@ -29,5 +29,3 @@ communication process. We show how our theoretical framework is successful in ex
 from the Twitter online social network. The proposed framework introduced here provides both insight into the
 roles played by competition and network structure on meme diversity and persistence, and an applicable null
 model to be tested against real data.
-
-{% include gallery id="gallery1" caption=" " %}
