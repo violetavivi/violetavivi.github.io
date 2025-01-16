@@ -1,6 +1,7 @@
 ---
 title: "A general framework for cycles in ecology"
 collection: publications
+layout: single
 permalink: /publication/A-general-framework-for-cycles-in-ecology
 date: 2025-01-15
 link: 'https://doi.org/10.1101/2025.01.13.632680'
