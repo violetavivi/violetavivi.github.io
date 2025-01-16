@@ -2,7 +2,7 @@
 title: "On the stability of competitive ecological communities with pairwise and higher-order interactions"
 collection: publications
 layout: single
-permalink: /publication/On-the-stability-of-competitive-ecological-communities-with-pairwise-and-higher-order-interactions
+permalink: /publication/On-the-stability-of-competitive-ecological-communities-with-pairwise-and-higher-order-interactions/
 date: 2025-01-15
 link: 'https://violetavivi.github.io/files/2025.01.15.submit6133536.pdf'
 venue: 'arRXiv'
