@@ -3,9 +3,7 @@ title: "On the stability of competitive ecological communities with pairwise and
 collection: publications
 layout: single
 permalink: /publication/On-the-stability-of-competitive-ecological-communities-with-pairwise-and-higher-order-interactions/
-date: 2025-01-15
 link: 'https://violetavivi.github.io/files/2025.01.15.submit6133536.pdf'
-venue: 'arRXiv'
 smallinfo: '(2025) Marc Duran-Sala, Sandro Meloni and <b>Calleja Solanas, V.</b>'
 location: Marc Duran-Sala, Sandro Meloni and Violeta Calleja-Solanas
 paperurl: 'https://violetavivi.github.io/files/2025.01.15.submit6133536.pdf'
