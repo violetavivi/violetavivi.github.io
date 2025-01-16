@@ -8,7 +8,6 @@ venue: 'bioRXiv'
 smallinfo: '(2025) Rafael O. Moura, <b>Calleja Solanas, V.</b>, José Antonio Langa, José R. Portillo, Fernando Soler-Toscano and Oscar Godoy
 location: Rafael O. Moura, Violeta Calleja-Solanas, José Antonio Langa, José R. Portillo, Fernando Soler-Toscano and Oscar Godoy
 paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2025/01/15/2025.01.13.632680.full.pdf'
-
 ---
 
 [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/01/15/2025.01.13.632680.full.pdf){: .btn--research}
