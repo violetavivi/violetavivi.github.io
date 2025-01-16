@@ -2,7 +2,7 @@
 title: "Structured interactions as a stabilizing mechanism for competitive ecosystems"
 collection: publications
 layout: single
-permalink: /publication/Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems
+permalink: /publication/Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/
 excerpt: 'How can the spatial location and interaction range be stabilizing?'
 date: 2022-12-12
 venue: 'Phys. Rev. E'
