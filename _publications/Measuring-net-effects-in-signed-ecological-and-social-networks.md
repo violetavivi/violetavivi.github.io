@@ -2,6 +2,7 @@
 title: "Measuring net effects in signed ecological and social networks"
 collection: publications
 permalink: /publication/Measuring-net-effects-in-signed-ecological-and-social-networks
+layout: single
 date: 2025-01-15
 link: 'https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf'
 venue: 'arRXiv'
