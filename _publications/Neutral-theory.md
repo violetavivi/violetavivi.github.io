@@ -2,7 +2,7 @@
 title: "Neutral theory for competing attention in social networks"
 collection: publications
 layout: single
-permalink: /publication/Neutral-theory
+permalink: /publication/Neutral-theory/
 excerpt: 'Inspired by Neutral Theory of Ecology, we here develop an analytical null model for competing attention and memes diversity in social networks starting and we analytically compute several new quantities of interest to characterize communication dynamics.'
 date: 2021-01-22
 venue: 'PRR'
