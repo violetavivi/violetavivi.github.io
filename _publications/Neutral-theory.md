@@ -5,6 +5,7 @@ layout: single
 permalink: /publication/Neutral-theory/
 excerpt: 'Inspired by Neutral Theory of Ecology, we here develop an analytical null model for competing attention and memes diversity in social networks starting and we analytically compute several new quantities of interest to characterize communication dynamics.'
 paperurl: 'https://ifisc.uib-csic.es/media/publications/publication/tu3DzugxQjKJsAA-Q1ChcQ.pdf'
+smallinfo: '(2021) Carlos A. Plata, Emanuele Pigani, Sandro Azaele, <b>Calleja Solanas, V.</b>, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis   <b><i>Phys. Rev. Research</i></b>'
 ---
 
 [PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
@@ -31,4 +32,3 @@ roles played by competition and network structure on meme diversity and persiste
 model to be tested against real data.
 
 
-{% include gallery id="gallery1" caption=" " %}
