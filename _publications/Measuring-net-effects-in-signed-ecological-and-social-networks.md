@@ -3,11 +3,8 @@ title: "Measuring net effects in signed ecological and social networks"
 collection: publications
 permalink: /publication/Measuring-net-effects-in-signed-ecological-and-social-networks/
 layout: single
-date: 2025-01-15
-link: 'https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf'
-venue: 'arRXiv'
-smallinfo: '(2025) Carlos Gómez-Ambrosi <b>Calleja Solanas, V.</b>'
-location: Carlos Gómez-Ambrosi and Violeta Calleja-Solanas
+smallinfo: '(2025) Carlos Gómez-Ambrosi <b>Calleja Solanas, V.</b> , bioRXiv'
+location: Carlos Gómez-Ambrosi and Violeta Calleja-Solanas, bioRXiv
 paperurl: 'https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf'
 ---
 
