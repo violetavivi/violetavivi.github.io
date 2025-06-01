@@ -13,6 +13,10 @@ If you think I could give a talk, feel free to invite me :blush:
 {: .notice}
 
 ## Talks, posters, etc
+2025 June  ::  Structural Stability workshop @ sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1-E_9hv9QfNlH_ZSGWlHTvuUzrHasW9_O/view?usp=sharing){: .btn--research} 
+
+2025 June  ::  Extreme changes in precipitation drive biodiversity loss
+: sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1-E_9hv9QfNlH_ZSGWlHTvuUzrHasW9_O/view?usp=sharing){: .btn--research} 
 
 2023 July  ::  Thesis viva
 :   Exploring ecological and social interactions through the lens of complex systems [Slides](https://violetavivi.github.io/files/thesis_viva_compressed.pdf){: .btn--research} 
