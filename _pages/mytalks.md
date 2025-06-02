@@ -13,7 +13,7 @@ If you think I could give a talk, feel free to invite me :blush:
 {: .notice}
 
 ## Talks, posters, etc
-2025 June  ::  Structural Stability workshop @ sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1y7n3gCzw2jd7pjxGG_vZmUMqeVopr5Qc/view?usp=sharing){: .btn--research} 
+2025 June  ::  Structural Stability workshop @ sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1c_zlHLYqqKd5THnyjWQznLDSz1xWlVj6/view?usp=sharing){: .btn--research} 
 
 2025 June  ::  Extreme changes in precipitation drive biodiversity loss
 : sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1-E_9hv9QfNlH_ZSGWlHTvuUzrHasW9_O/view?usp=sharing){: .btn--research} 
