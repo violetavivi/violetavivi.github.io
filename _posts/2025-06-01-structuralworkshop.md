@@ -8,7 +8,7 @@ tags:
 
 Notes and resources for the workshop on Structural Stability at the sibecol-aeet meeting 2025:
 
-[Slides](https://drive.google.com/file/d/1y7n3gCzw2jd7pjxGG_vZmUMqeVopr5Qc/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/1c_zlHLYqqKd5THnyjWQznLDSz1xWlVj6/view?usp=sharing)
 
 ### Shiny apps:
 - [2-species example](https://violetavics.shinyapps.io/StructuralStability2sp/)
