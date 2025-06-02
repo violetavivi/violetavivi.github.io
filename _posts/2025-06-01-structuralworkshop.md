@@ -6,7 +6,7 @@ tags:
   - workshops
 ---
 
-Notes and resources for the workshop on Structural Stability at the sibecol-aeet meeting 2025:
+Notes and resources for the workshop on Structural Stability at the sibecol-aeet meeting 2025 (imparted with Sergio Picó and Oscar Godoy):
 
 [Slides](https://drive.google.com/file/d/1c_zlHLYqqKd5THnyjWQznLDSz1xWlVj6/view?usp=sharing)
 
