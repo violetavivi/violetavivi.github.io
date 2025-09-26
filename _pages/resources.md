@@ -34,6 +34,9 @@ This page collects references, links, data repositories, and books that I have f
   
 ## Datasets for ecology and computational social sciences
 - [Web of life](https://www.web-of-life.es/): a collection of food-webs, mutualistic and host-parasite networks maintained by the [Bascompte Lab](https://www.bascompte.net/).
+- [EuPPollNet](https://doi.org/10.1111/geb.70000): A European Database of Plant‐Pollinator Networks. The [database](https://github.com/JoseBSL/EuPPollNet) contains interaction data at the species level for 94% of the records, including a total of 1411 plant and 2223 pollinator species.
+- [GloBI](https://www.globalbioticinteractions.org/): Global Biotic Interactions (GloBI) provides open access to finding species interaction data (e.g., predator-prey, pollinator-plant, pathogen-host, parasite-host) by combining existing open datasets using open source software.
+- [Neotoma](https://www.neotomadb.org/): Paleoecology Databases via open, community-curated data and services for paleoecological and paleoenvironmental data. E.g. Pollen or charcoal.
 - [Living Planet Index](https://www.livingplanetindex.org/search): stores population trends.
 - [BioTIME](https://biotime.st-andrews.ac.uk/): global database of assemblage time series for quantifying and understanding biodiversity change.
 - Twitter datasets publicly available: 30 different datasets associated with real-world [events](https://figshare.com/articles/dataset/Twitter_event_datasets_2012-2016_/5100460) and two datasets of [Spanish elections](https://osf.io/j5qwx/).
