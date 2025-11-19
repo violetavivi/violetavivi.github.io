@@ -13,6 +13,10 @@ If you think I could give a talk, feel free to invite me :blush:
 {: .notice}
 
 ## Talks, posters, etc
+
+2025 June  ::  The effect of temporal variability on the stability of species interactions 
+: IITE Seminar Series [Slides](https://github.com/violetavivi/violetavivi.github.io/blob/master/files/25_nov18_IITE_seminar.pdf){: .btn--research}  [Video](https://youtu.be/yo0bAX4j6TM?si=OsypXVcVj7nqXxVX){: .btn--research}
+
 2025 June  ::  Structural Stability workshop @ sibecol-aeet meeting [Slides](https://drive.google.com/file/d/1c_zlHLYqqKd5THnyjWQznLDSz1xWlVj6/view?usp=sharing){: .btn--research} 
 
 2025 June  ::  Extreme changes in precipitation drive biodiversity loss
