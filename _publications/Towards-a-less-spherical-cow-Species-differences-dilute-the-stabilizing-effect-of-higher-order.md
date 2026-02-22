@@ -4,7 +4,7 @@ interactions"
 collection: publications
 layout: single
 permalink: /publication/Towards-a-less-spherical-cow/
-smallinfo: '(2025) Duran-Sala, M., Meloni S. and <b>Calleja Solanas, V.</b>
+smallinfo: '(2025) Duran-Sala, M., Meloni S. and <b>Calleja Solanas, V.</b>'
 paperurl: 'https://arxiv.org/pdf/2501.09172'
 ---
 
