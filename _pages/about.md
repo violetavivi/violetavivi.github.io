@@ -12,6 +12,7 @@ redirect_from:
 <p style="text-align: justify"> 
 My research has focused, so far, on ecological and social systems within an ecological framework. I humbly address one of the central questions in ecology: understanding how ecological interactions shape species' coexistence and long-term persistence. To explore this, I integrate data from field observations and experiments with theoretical frameworks and computational modeling, from agent-based models to nonlinear ODEs and, primarily, Network Science. 
 
+ </p>
   - Currently working on: Ecological interactions, Invasion graphs, Temporal networks, Coexistence, Structural Stability
  
  </p> 
