@@ -1,7 +1,7 @@
 ---
-title: "Measuring net effects in signed ecological and social networks"
+title: "Measures of net effects in signed social and ecological networks"
 collection: publications
-permalink: /publication/Measuring-net-effects-in-signed-ecological-and-social-networks/
+permalink: /publication/Measures-of-net-effects/
 layout: single
 smallinfo: '(2025) Carlos Gómez-Ambrosi <b>Calleja Solanas, V.</b>'
 location: Carlos Gómez-Ambrosi and Violeta Calleja-Solanas
@@ -10,7 +10,7 @@ paperurl: 'https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf'
 
 [PDF](https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf){: .btn--research}
 
-Carlos Gómez-Ambrosi and Violeta Calleja-Solanas, arRxiv 2025.01.13.XXXXX
+Carlos Gómez-Ambrosi and Violeta Calleja-Solanas, arRxiv 2501.09190
 
 # Abstract
 With improvements in data resolution and quality, researchers can now construct detailed representations of complex systems as signed, weighted, and directed networks. In this article, we introduce a framework for measuring net and indirect effects without simplifying these information-rich networks. Building on a generalization of Katz centrality, this framework captures both direct and indirect interactions, the effect of the whole network on a node and its reverse, the effect of a node on the whole network, while accommodating the complexity of signed, weighted, and directed edges.
