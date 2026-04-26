@@ -8,7 +8,7 @@ paperurl: "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013
 citation: "Carlos A. Plata, Emanuele Pigani, Sandro Azaele, <b>Calleja Solanas, V.</b>, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis"
 ---
 
-[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070){: .btn--research}
+
 
 Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
 Phys. Rev. Research 3, 013070 – Published 22 January 2021 [DOI:https://doi.org/10.1103/PhysRevResearch.3.013070](DOI:https://doi.org/10.1103/PhysRevResearch.3.013070)
