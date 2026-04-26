@@ -16,6 +16,7 @@ gallery1:
     image_path: Quantifying-the-drivers-behind-collective-attention/fig8.png
     alt: "placeholder image 2"
     title: "Re-scaled difference between competition and mutualism over the different periods."
+thumbnail: "Quantifying-the-drivers-behind-collective-attention/fig3.png"
 ---
 
 [PDF](https://iopscience.iop.org/article/10.1088/2632-072X/ac35b6/pdf){: .btn--research}
