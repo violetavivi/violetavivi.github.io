@@ -7,11 +7,8 @@ date: 2025-01-15
 venue: "Submitted"
 paperurl: "https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf"
 citation: "Carlos Gómez-Ambrosi and <b>Calleja Solanas, V.</b>"
----
+--- 
 
-[PDF](https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf){: .btn--research}
-
-Carlos Gómez-Ambrosi and Violeta Calleja-Solanas, arRxiv 2501.09190
 
 # Abstract
 With improvements in data resolution and quality, researchers can now construct detailed representations of complex systems as signed, weighted, and directed networks. In this article, we introduce a framework for measuring net and indirect effects without simplifying these information-rich networks. Building on a generalization of Katz centrality, this framework captures both direct and indirect interactions, the effect of the whole network on a node and its reverse, the effect of a node on the whole network, while accommodating the complexity of signed, weighted, and directed edges.
