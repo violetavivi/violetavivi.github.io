@@ -6,8 +6,8 @@ date: 2021-01-22
 venue: "Phys. Rev. Research"
 paperurl: "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070"
 citation: "Carlos A. Plata, Emanuele Pigani, Sandro Azaele, <b>Calleja Solanas, V.</b>, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis"
----
-
+thumbnail: "Neutral-theory/illustration.png"
+--- 
 
 
 Carlos A. Plata, Emanuele Pigani, Sandro Azaele, Violeta Calleja-Solanas, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis
