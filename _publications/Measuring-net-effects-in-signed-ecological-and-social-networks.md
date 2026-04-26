@@ -1,11 +1,12 @@
 ---
 title: "Measures of net effects in signed social and ecological networks"
 collection: publications
-permalink: /publication/Measures-of-net-effects/
 layout: single
-smallinfo: '(2025) Carlos Gómez-Ambrosi <b>Calleja Solanas, V.</b>'
-location: Carlos Gómez-Ambrosi and Violeta Calleja-Solanas
-paperurl: 'https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf'
+permalink: /publication/Measures-of-net-effects/
+date: 2025-01-15
+venue: "Submitted"
+paperurl: "https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf"
+citation: "Carlos Gómez-Ambrosi and <b>Calleja Solanas, V.</b>"
 ---
 
 [PDF](https://violetavivi.github.io/files/2025.01.15.submit6133590.pdf){: .btn--research}
