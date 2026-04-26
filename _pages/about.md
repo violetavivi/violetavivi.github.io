@@ -22,7 +22,7 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 ## Education
 :hatched_chick: PhD in Complex Systems, [_IFISC_](https://ifisc.uib-csic.es/en/) (Institute for Cross-Disciplinary Physics and Complex Systems), Spain
       
-:hatching_chick: Master in Physics and Physical Technologies & :egg: Bachelor in Physics, _University of Zaragoza_
+:hatching_chick: Master in Physics and Physical Technologies, :egg: Bachelor in Physics, _University of Zaragoza_, Spain
 
 
 ## Publications
