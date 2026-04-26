@@ -3,10 +3,10 @@ title: "Structured interactions as a stabilizing mechanism for competitive ecosy
 collection: publications
 layout: single
 permalink: /publication/Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/
-excerpt: 'How can the spatial location and interaction range be stabilizing?'
-smallinfo: '(2022) <b> Calleja-Solanas, V.</b>, Khalil, N., Gómez-Gardeñes, J., Hernández-García, E. & Meloni, S., <b><i>Phys Rev E</i></b>'
-location: Violeta Calleja-Solanas, Nagi Khalil, Jesús Gómez-Gardeñes, Emilio Hernández-García, Sandro Meloni
-paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.064307'
+date: 2022-12-14
+venue: "Phys. Rev. E"
+paperurl: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.064307"
+citation: "<b>Calleja-Solanas, V.</b>, Khalil, N., Gómez-Gardeñes, J., Hernández-García, E., & Meloni, S."
 gallery1:
   - url: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig1.png
     image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig1.png
@@ -26,7 +26,6 @@ gallery3:
     image_path: Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/pokemon.jpeg
     alt: "placeholder image 3"
     title: " "
- 
 tags:
   - Structured
 ---
