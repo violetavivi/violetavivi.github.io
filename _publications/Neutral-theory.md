@@ -2,6 +2,7 @@
 title: "Neutral theory for competing attention in social networks"
 collection: publications
 permalink: /publication/Neutral-theory/
+layout: single
 date: 2021-01-22
 venue: "Phys. Rev. Research"
 paperurl: "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070"
