@@ -1,13 +1,12 @@
 ---
-title: "An ecological approach to structural flexibility in
-online communication systems"
+title: "An ecological approach to structural flexibility in online communication systems"
 collection: publications
 layout: single
 permalink: /publication/An-ecological-approach-to-structural-flexibility/
 date: 2021-05-29
-smallinfo: '(2021) Palazzi, MJ, Solé Ribalta, A., <b>Calleja Solanas, V.</b>, Meloni, S., Plata, C.A., Suweis, S. & Borge-Holthoefer J.,   <b><i>Nature Communications</i></b>'
-location: María J. Palazzi, Albert Solé-Ribalta, Violeta Calleja-Solanas, Sandro Meloni, Carlos A. Plata, Samir Suweis & Javier Borge-Holthoefer
-paperurl: 'https://www.nature.com/articles/s41467-021-22184-2.pdf'
+venue: "Nature Communications"
+paperurl: "https://www.nature.com/articles/s41467-021-22184-2.pdf"
+citation: "Palazzi, M. J., Solé-Ribalta, A., <b>Calleja Solanas, V.</b>, Meloni, S., Plata, C. A., Suweis, S., & Borge-Holthoefer, J."
 gallery1:
   - url: An-ecological-approach-to-structural-flexibility/fig2.png
     image_path: An-ecological-approach-to-structural-flexibility/fig2.png
