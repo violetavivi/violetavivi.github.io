@@ -3,7 +3,7 @@ layout: archive
 permalink: /research/
 author_profile: true
 ---
-Theoretical Ecology | Interaction Networks | Complex Systems
+Theoretical Ecology :: Interaction Networks :: Complex Systems
 {: .notice}
 
 You can also find a complete list of articles on my [Google Scholar profile](https://scholar.google.es/citations?user=gqRwKssAAAAJ&hl).
