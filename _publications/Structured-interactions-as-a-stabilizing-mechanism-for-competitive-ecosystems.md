@@ -28,6 +28,7 @@ gallery3:
     title: " "
 tags:
   - Structured
+thumbnail: "Structured-interactions-as-a-stabilizing-mechanism-for-competitive-ecosystems/fig1.png"
 ---
 
 [PDF](https://violetavivi.github.io/files/PhysRevE.106.064307.pdf){: .btn--research}  [Link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.064307)
