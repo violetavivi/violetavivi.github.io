@@ -7,6 +7,7 @@ date: 2021-05-29
 venue: "Nature Communications"
 paperurl: "https://www.nature.com/articles/s41467-021-22184-2.pdf"
 citation: "Palazzi, M. J., Solé-Ribalta, A., <b>Calleja Solanas, V.</b>, Meloni, S., Plata, C. A., Suweis, S., & Borge-Holthoefer, J."
+thumbnail: "An-ecological-approach-to-structural-flexibility/fig2.png"
 gallery1:
   - url: An-ecological-approach-to-structural-flexibility/fig2.png
     image_path: An-ecological-approach-to-structural-flexibility/fig2.png
