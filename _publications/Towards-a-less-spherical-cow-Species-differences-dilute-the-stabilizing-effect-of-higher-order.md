@@ -9,7 +9,6 @@ paperurl: "https://arxiv.org/pdf/2501.09172"
 citation: "Duran-Sala, M., Meloni, S., and <b>Calleja Solanas, V.</b>"
 ---
 
-[PDF](https://arxiv.org/pdf/2501.09172){: .btn--research}
 
 Marc Duran-Sala Sandro Meloni and Violeta Calleja-Solanas, arxiv 2501.09172v2
 
