@@ -7,7 +7,9 @@ author_profile: true
 
 You can also find a complete list of articles on my [Google Scholar profile](https://scholar.google.es/citations?user=gqRwKssAAAAJ&hl).
 
-
-{% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
-{% endfor %}
+<div style="margin-top: 2em;">
+  {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+  {% for post in sorted_pubs %}
+    {% include archive-single-publications.html %}
+  {% endfor %}
+</div>
