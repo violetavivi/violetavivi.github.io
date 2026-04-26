@@ -6,11 +6,11 @@
     <div class="archive__item-teaser" style="flex: 0 0 30%; max-width: 250px;">
       {% if post.thumbnail %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <img src="{{ base_path }}/images/{{ post.thumbnail }}" alt="Paper figure" style="border: 1px solid #eaeaea; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); width: 100%; object-fit: cover;">
+          <img src="{{ base_path }}/images/{{ post.thumbnail }}" alt="Paper figure" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: center; border: 1px solid #eaeaea; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
         </a>
       {% else %}
-        <div style="width: 100%; padding-bottom: 75%; background-color: #f7f7f7; border-radius: 8px; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center;">
-           <span style="color: #aaa; font-size: 0.8em; margin-top: -75%;">No Image</span>
+        <div style="width: 100%; aspect-ratio: 4 / 3; background-color: #f7f7f7; border-radius: 8px; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center;">
+           <span style="color: #aaa; font-size: 0.8em;">No Image</span>
         </div>
       {% endif %}
     </div>
