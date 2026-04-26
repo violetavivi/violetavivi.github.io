@@ -3,12 +3,12 @@ title: "Cooperation maximizes biodiversity"
 collection: publications
 layout: single
 permalink: /publication/Cooperation-maximizes-biodiversity/
-smallinfo: '(2026) Oscar Godoy, **Violeta Calleja-Solanas**, Fernando Soler-Toscano, José R. Portillo, Antonio Suárez, and José A. Langa'
-location: Oscar Godoy, Violeta Calleja-Solanas, Fernando Soler-Toscano, José R. Portillo, Antonio Suárez, and José A. Langa
-paperurl: '[https://www.journals.uchicago.edu/doi/10.1086/741536](https://www.journals.uchicago.edu/doi/10.1086/741536)'
+date: 2026-04-20
+venue: "The American Naturalist"
+paperurl: "https://www.journals.uchicago.edu/doi/10.1086/741536"
+citation: "Oscar Godoy, <b>Calleja-Solanas, V.</b>, Fernando Soler-Toscano, José R. Portillo, Antonio Suárez, and José A. Langa"
 ---
 
-[PDF](https://www.journals.uchicago.edu/doi/epdf/10.1086/741536){: .btn--research}
 
 Oscar Godoy, Violeta Calleja-Solanas, Fernando Soler-Toscano, José R. Portillo, Antonio Suárez, and José A. Langa
 
