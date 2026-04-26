@@ -19,15 +19,17 @@ My research has focused on ecological and social systems within an ecological fr
 You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV.pdf).
 
 
-### Education
+## Education
 :hatched_chick: PhD in Complex Systems, [_IFISC_](https://ifisc.uib-csic.es/en/) (Institute for Cross-Disciplinary Physics and Complex Systems), Spain
       
 :hatching_chick: Master in Physics and Physical Technologies & :egg: Bachelor in Physics, _University of Zaragoza_
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+<ul>
+  {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+  {% for post in sorted_pubs %}
     {% include archive-single-publications-about.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
   
