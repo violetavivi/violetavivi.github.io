@@ -1,11 +1,12 @@
 ---
-title: "Towards a less spherical cow: Species differences dilute the stabilizing effect of higher-order
-interactions"
+title: "Towards a less spherical cow: Species differences dilute the stabilizing effect of higher-order interactions"
 collection: publications
 layout: single
 permalink: /publication/Towards-a-less-spherical-cow/
-smallinfo: '(2025) Duran-Sala, M., Meloni S. and <b>Calleja Solanas, V.</b>'
-paperurl: 'https://arxiv.org/pdf/2501.09172'
+date: 2025-01-16
+venue: "arXiv"
+paperurl: "https://arxiv.org/pdf/2501.09172"
+citation: "Duran-Sala, M., Meloni, S., and <b>Calleja Solanas, V.</b>"
 ---
 
 [PDF](https://arxiv.org/pdf/2501.09172){: .btn--research}
