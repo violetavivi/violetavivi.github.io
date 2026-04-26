@@ -5,7 +5,7 @@ layout: single
 permalink: /publication/A-general-framework-for-invasion-cycles-in-ecology/
 smallinfo: '(2025) <b>Calleja Solanas, V.</b>,  Rafael O. Moura, José Antonio Langa, José R. Portillo, Fernando Soler-Toscano and Oscar Godoy'
 location: Violeta Calleja-Solanas, Rafael O. Moura, José Antonio Langa, José R. Portillo, Fernando Soler-Toscano and Oscar Godoy
-paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2025/01/15/2025.01.13.632680.full.pdf'
+paperurl: '[https://www.biorxiv.org/content/biorxiv/early/2025/01/15/2025.01.13.632680.full.pdf](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70380)'
 ---
 
 [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/01/15/2025.01.13.632680.full.pdf){: .btn--research}
