@@ -6,6 +6,15 @@ date: 2021-01-22
 venue: "Phys. Rev. Research"
 paperurl: "https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.013070"
 citation: "Carlos A. Plata, Emanuele Pigani, Sandro Azaele, <b>Calleja Solanas, V.</b>, María J. Palazzi, Albert Solé-Ribalta, Javier Borge-Holthoefer, Sandro Meloni, and Samir Suweis"
+gallery1:
+  - url: Neutral-theory/illustration.png
+    image_path: Neutral-theory/illustration.png
+    alt: "placeholder image 1"
+    title: " "
+  - url: Neutral-theory/fig4.png
+    image_path: Neutral-theory/fig4.png
+    alt: "placeholder image 2"
+    title: " "
 thumbnail: "Neutral-theory/illustration.png"
 --- 
 
@@ -31,4 +40,4 @@ from the Twitter online social network. The proposed framework introduced here p
 roles played by competition and network structure on meme diversity and persistence, and an applicable null
 model to be tested against real data.
 
-
+{% include gallery id="gallery1" caption=" " %}
