@@ -7,14 +7,14 @@ date: 2025-06-27
 venue: "arXiv"
 paperurl: "https://arxiv.org/pdf/2506.22123"
 citation: "Annalisa Caligiuri, Emile Emery, Leonardo Ferreira, Juan García-Castillo, Simon D Lindner, Javier Molina-Hernández, Nelson Aloysio Reis de Almeida Passos, Vítor Hugo Ribeiro, Marika Sartore, Boxuan Wang and <b>Calleja Solanas, V.</b>"
-thumbnail: "fig1.jpg"
+thumbnail: "complexityfig1.png"
 gallery1:
   - url: complexityfig2.jpg
-    image_path: complexityfig2.jpg
+    image_path: complexityfig2.png
     alt: "placeholder image 1"
     title: " "
   - url: complexityfig1.jpg
-    image_path: complexityfig1.jpg
+    image_path: complexityfig1.png
     alt: "placeholder image 2"
     title: " "
 
