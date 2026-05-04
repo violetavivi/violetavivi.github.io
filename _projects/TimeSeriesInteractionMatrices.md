@@ -1,9 +1,8 @@
 ---
 title: "MONET"
 layout: single
-excerpt: |
-  Matrices Of species interactioNs Estimated from Time-series: A New Open-Access Repository for Inferred Interaction Matrices <br/><img src='/images/monetmap.png'>
-collection: portfolio
+excerpt: "Matrices Of species interactioNs Estimated from Time-series: A New Open-Access Repository for Inferred Interaction Matrices <br/><img src='/images/monetmap.png'>"
+collection: projects
 feature_row:
   - image_path: /images/taste.png
     alt: "placeholder image 1"
@@ -25,7 +24,6 @@ gallery1:
     alt: "monet map image"
     title: " "
 ---
-
 
 ## Matrices Of species interactioNs Estimated from Time-series
 
