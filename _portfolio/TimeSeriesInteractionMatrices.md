@@ -26,7 +26,8 @@ gallery1:
     title: " "
 ---
 
-# MONET: Matrices Of species interactioNs Estimated from Time-series
+
+## Matrices Of species interactioNs Estimated from Time-series
 
 I am thrilled to announce an upcoming project that aims to bridge a major gap in ecological network analysis: a comprehensive, publicly hosted database of inferred interaction matrices. 
 
@@ -39,7 +40,7 @@ To build this, we have scoured the literature, rigorously selecting 46 global da
 ### Members
 Violeta Calleja-Solanas (conceptualization, analysis, and inference), Sergio Picó (literature hunt), Daniel Stouffer (conceptualization), and Oscar Godoy (conceptualization)
 
-{% include gallery id="gallery1" caption="Database visualization and global coverage." %}
+{% include gallery id="gallery1" caption=" " %}
 
 ### Related Publications
 {% include feature_row %}
