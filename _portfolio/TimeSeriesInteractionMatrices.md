@@ -14,6 +14,15 @@ feature_row:
     title: ""
     excerpt: "Time-varying ecological interactions characterise equilibrium and stability"
     url: "https://violetavivi.github.io/publication/Time-varying-complexity"
+gallery1:
+  - url: images/monet.png
+    image_path: images/monet.png
+    alt: "placeholder image 1"
+    title: " "
+  - url: images/monetmap.png
+    image_path: images/monetmap.png
+    alt: "placeholder image 2"
+    title: " "
 ---
 #MONET: Matrices Of species interactioNs Estimated from Time-series, a New Open-Access Repository for Inferred Interaction Matrices.
 
@@ -26,6 +35,8 @@ STAY TUNED!
 
 ### Members
 Violeta Calleja-Solanas (conceptualization, analysis, and inference), Sergio Picó (literature hunt), Daniel Stouffer (conceptualization), and Oscar Godoy (conceptualization)
+
+{% include gallery id="gallery1" caption=" " %}
 
 ### Related Publications
 {% include feature_row %}
