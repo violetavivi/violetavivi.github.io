@@ -5,11 +5,9 @@ excerpt: "Matrices Of species interactioNs Estimated from Time-series: A New Ope
 collection: projects
 thumbnail: "monetmap.png"
 gallery1:
-  - url: monet.png
-    image_path: monet.png
+  - image_path: monet.png
     title: " "
-  - url: monetmap.png
-    image_path: monetmap.png
+  - image_path: monetmap.png
     title: " "
 ---
 
