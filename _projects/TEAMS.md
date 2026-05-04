@@ -3,6 +3,7 @@ title: "TEAMS"
 layout: single
 excerpt: "Towards an Ecological Approach of Information Ecosystems.<br/><img src='/images/TEAMS.png'>"
 collection: projects
+thumbnail: "TEAMS.png"
 feature_row:
   - image_path: protfolio-fig3.png
     alt: "placeholder image 1"
