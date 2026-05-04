@@ -7,7 +7,7 @@ main:
     url: /mytalks/    
 
   - title: "Projects"
-    url: /portfolio/  
+    url: /projects/  
         
   - title: "Blog"
     url: /year-archive/    
