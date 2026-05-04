@@ -6,12 +6,10 @@ collection: projects
 thumbnail: "monetmap.png"
 gallery1:
   - url: monet.png
-    image_path: /images/monet.png
-    alt: "monet image"
+    image_path: monet.png
     title: " "
   - url: monetmap.png
-    image_path: /images/monetmap.png
-    alt: "monet map image"
+    image_path: monetmap.png
     title: " "
 ---
 
