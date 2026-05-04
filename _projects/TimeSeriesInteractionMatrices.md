@@ -3,17 +3,7 @@ title: "MONET"
 layout: single
 excerpt: "Matrices Of species interactioNs Estimated from Time-series: A New Open-Access Repository for Inferred Interaction Matrices <br/><img src='/images/monetmap.png'>"
 collection: projects
-feature_row:
-  - image_path: /images/taste.png
-    alt: "placeholder image 1"
-    title: " "
-    excerpt: "Time-varying interactions maintain stability despite changing coexistence mechanisms"
-    url: "https://violetavivi.github.io/publication/taste"
-  - image_path: /images/complexityfig1.png
-    alt: "placeholder image 2"
-    title: " "
-    excerpt: "Time-varying ecological interactions characterise equilibrium and stability"
-    url: "https://violetavivi.github.io/publication/Time-varying-complexity"
+thumbnail: "monetmap.png"
 gallery1:
   - url: /images/monet.png
     image_path: /images/monet.png
@@ -25,7 +15,7 @@ gallery1:
     title: " "
 ---
 
-## Matrices Of species interactioNs Estimated from Time-series
+### Matrices Of species interactioNs Estimated from Time-series
 
 I am thrilled to announce an upcoming project that aims to bridge a major gap in ecological network analysis: a comprehensive, publicly hosted database of inferred interaction matrices. 
 
@@ -40,5 +30,3 @@ Violeta Calleja-Solanas (conceptualization, analysis, and inference), Sergio Pic
 
 {% include gallery id="gallery1" caption=" " %}
 
-### Related Publications
-{% include feature_row %}
