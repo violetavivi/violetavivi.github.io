@@ -17,12 +17,12 @@ I am thrilled to announce an upcoming project that aims to bridge a major gap in
 
 While open-access repositories based on visits are well established, we are taking a different route by inferring same-trophic-level interaction networks directly from empirical abundance time series using a hierarchical Bayesian inference framework. 
 
-To build this, we have scoured the literature, rigorously selecting 46 global datasets based on their statistical power. Our goal is to provide the community with a robust, ready-to-use resource for researching coexistence and community dynamics.
+To build this, we have scoured the literature, rigorously selecting 46 global datasets based on their statistical power. Our goal is to provide a robust, ready-to-use resource for researching coexistence and community dynamics.
 
 **STAY TUNED!**
 
 ### Members
-Violeta Calleja-Solanas (conceptualization, analysis, and inference), Sergio Picó (literature hunt), Daniel Stouffer (conceptualization), and Oscar Godoy (conceptualization)
+Violeta Calleja-Solanas, Sergio Picó, [Daniel Stouffer](https://stoufferlab.org/publications/) and [Oscar Godoy](https://oscargodoy.com/).
 
 {% include gallery id="gallery1" caption=" " %}
 
