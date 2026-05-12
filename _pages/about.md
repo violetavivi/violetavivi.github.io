@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Postdoctoral fellow at Doñana Biological Station (CSIC), Spain, studying the variation of ecological interactions. Formerly at the Institute for Cross-Disciplinary Physics and Complex Systems, IFISC. 
+:wave: Postdoctoral fellow at University of Oxford, part of the [SalGo lab](https://www.salgo.ox.ac.uk/). Formerly at Doñana Biological Station (CSIC), Spain, studying the variation of ecological interactions. 
 <p style="text-align: justify"> 
-My research has focused on ecological and social systems within an ecological framework. I humbly address one of the central questions in ecology: understanding how ecological interactions shape species' coexistence and long-term persistence. To explore this, I integrate data from field observations and experiments with theoretical frameworks and computational modeling, from agent-based models to nonlinear ODEs and, primarily, Network Science. 
+My research focuses on ecological systems, lying at the intersection of theoretical and quantitative ecology. I humbly address one of the central questions in ecology: how ecological interactions shape the coexistence and long-term persistence of species. To explore this, I integrate data from field observations and experiments with theoretical frameworks using techniques from dynamical systems, complex networks, and computation.
 
 </p>
   - Currently working on: Ecological interactions, Invasion graphs, Temporal networks, Coexistence, Structural Stability
