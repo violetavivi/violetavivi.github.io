@@ -32,7 +32,7 @@ Species interactions are fundamental to maintaining diversity. However, it remai
 
 {% include gallery id="gallery1" caption=" " %}
 
-Check the presentation and discussion of the work at the Theoretical Ecology Seminars series from the IITE:
+Check my talk at the Theoretical Ecology Seminars series from the IITE [Slides](https://github.com/violetavivi/violetavivi.github.io/blob/master/files/25_nov18_IITE_seminar.pdf){: .btn--research}
 {% include gallery id="gallery2" caption=" " %}
 Check the presentation and discussion of the work at the Women in Network Science (WINS) seminar:
 {% include gallery id="gallery3" caption=" " %}
