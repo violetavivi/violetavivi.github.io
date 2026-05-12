@@ -17,8 +17,6 @@ tags:
 thumbnail: "HOIplain1.png"
 ---
 
-[PDF](https://arxiv.org/pdf/2605.06301){: .btn--research}
-
 # Abstract
 Higher-order interactions are increasingly recognized as a key component of ecological dynamics. However, we show that higher-order Lotka-Volterra dynamics can, in some scenarios, be accurately reproduced by effective pairwise models fitted to the same abundance time series. Consequently, higher-order interactions cannot, in general, be inferred from time-series data alone. We further identify a fundamental problem of mechanistic identifiability, whereby distinct interaction mechanisms generate nearly indistinguishable dynamics, potentially leading to accurate yet misleading ecological interpretations. Our results highlight the need to complement time-series data with additional ecological information to infer interaction structure reliably.
 
