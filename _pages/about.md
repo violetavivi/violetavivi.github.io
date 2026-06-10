@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Postdoctoral fellow at University of Oxford, part of the [SalGo lab](https://www.salgo.ox.ac.uk/). Formerly at Doñana Biological Station (CSIC), Spain, studying the variation of ecological interactions. 
+:wave: Postdoctoral fellow at University of Oxford, part of the [SalGo team](https://www.salgo.ox.ac.uk/). Formerly at Doñana Biological Station (CSIC), Spain, studying the variation of ecological interactions. 
 <p style="text-align: justify"> 
 My research focuses on ecological systems, lying at the intersection of theoretical and quantitative ecology. I humbly address one of the central questions in ecology: how ecological interactions shape the coexistence and long-term persistence of species. To explore this, I integrate data from field observations and experiments with theoretical frameworks using techniques from dynamical systems, complex networks, and computation.
 
