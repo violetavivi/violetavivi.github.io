@@ -28,7 +28,7 @@ You can find a surely outdated CV [here](http://violetavivi.github.io/files/myCV
 <ul>
   {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
   {% for post in sorted_pubs %}
-    {% include archive-single-publications-about.html %}
+    {% include archive-single-publications.html %}
   {% endfor %}
 </ul>
   
